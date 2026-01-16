@@ -8,10 +8,25 @@ Minha trajetória profissional é marcada por uma forte atuação na área comer
 
 Meu foco é criar dashboards e análises que não apenas mostrem números, mas que contem histórias e resolvam problemas reais das empresas.
 
-📫 **Entre em contato comigo:**
-* [LinkedIn](https://www.linkedin.com/in/caroline-mann-wharton-luzio/)
-* 📧 carolmwl@outlook.com
+---
 
+### 📫 Entre em contato comigo
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/caroline-mann-wharton-luzio/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:carolmwl@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
+
+<br/>
+
+* **E-mail:** carolmwl@outlook.com
+* **Telefone:** +55 11 96637-5063
+
+---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -22,7 +37,7 @@ Meu foco é criar dashboards e análises que não apenas mostrem números, mas q
     title="Power BI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
   />
   
   <img 
